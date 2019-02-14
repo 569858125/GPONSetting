@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPON Phone</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_start">启动服务</string>
+    <string name="btn_led_blink">LED：闪烁</string>
+    <string name="btn_led_off">LED：关闭</string>
+    <string name="toast_service_started">服务已经启动.</string>
+    <string name="onu_get_eth">获取有线网状态</string>
+    <string name="onu_get_pon">获取XPON 状态</string>
+    <string name="onu_get_tracert">获取TRACERT 状态</string>
+    <string name="onu_get_wifi">获取Wifi 状态</string>
+    <string name="onu_get_ping">获取Ping 的状态</string>
+    <string name="onu_get_wan">获取Wan 口状态</string>
+    <string name="onu_post_wan">设置Wan口状态</string>
+    <string name="onu_post_ping">进行ping 测试</string>
+    <string name="onu_post_wifi">设置wifi</string>
+    <string name="onu_post_tracert">设置TRACERT</string>
+    <string name="onu_post_reboot">重启</string>
+    <string name="onu_post_reset">恢复出厂设置</string>
+    <string name="onu_post_deviceinfo">设备信息</string>
+    <string name="wifi_ssid">WIFI SSID:</string>
+    <string name="wifi_passwd">WIFI Password:</string>
+    <string name="wifi_channel">WIFI Channel:</string>
+     <string name="wifi_ssid_hint">eg：GOPNWIFI_XXX</string>
+    <string name="wifi_passwd_hint">eg：12345678</string>
+    <string name="wifi_channel_hint">eg:0-16</string>
+    <string name="wifi_save">Save</string>
+    <string name="wifi_show">Show password</string>
+    <string name="gpon_setting_reboot">Reboot GPON</string>
+    <string name="gpon_setting_reset">Reset GPON</string>
+    <string name="setting">GPON Tool Setting</string>
+    <string name="setting_wifi">GPON WIFI Setting</string>
+    <string name="device_info_name">name</string>
+    <string name="device_info_mode">mode</string>
+    <string name="device_info_hwver">hw_ver</string>
+    <string name="device_info_swver">sw_ver</string>
+    <string name="device_info_devmac">dev_mac</string>
+    <string name="device_info_gponsn">gpon_sn</string>
+</resources>
